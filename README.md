@@ -1,4 +1,4 @@
-# Documenting my JetPack Compose journey.
+# Documenting my JetPack Compose and Kotlin journey.
 
 
  
